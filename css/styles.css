@@ -1,99 +1,124 @@
-body{
+body {
   background: #f0f9fe;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-weight: 400;
 }
+
 header,
-footer{
-  color: #FFF;
+footer {
+  color: #fff;
   background: #35393a;
 }
-footer{
+
+footer {
   padding: 20px 0;
 }
-header address{
+
+header address {
   margin-top: 10%;
 }
+
 header .row,
-footer .row{
+footer .row {
   margin-bottom: 0;
 }
-.divider{
+
+.divider {
   background: #1090c1;
-  height: 30px;
+  height: 10px;
   display: block;
   width: 100%;
 }
-.row{
-  width:90%;
+
+.row {
+  width: 90%;
 }
-.row.grid{
-  width:100%;
+
+.row.grid {
+  width: 100%;
 }
-.dark{
+
+.dark {
   background: #212121;
 }
-h1{
-  color:#FFF;
+
+h1 {
+  color: #fff;
 }
-h2{
-  color:#00b8de;
+
+h2 {
+  color: #00b8de;
 }
-h3{
-  color:#FFF;
+
+h3 {
+  color: #fff;
 }
-strong{
+
+strong {
   font-weight: 700;
 }
-.a-right{
+
+.a-right {
   text-align: right;
 }
-.a-center{
+
+.a-center {
   text-align: center;
 }
-article{
-  margin:20px 0;
+
+article {
+  margin: 20px 0;
 }
-article .row{
-  width:100%;
+
+article .row {
+  width: 100%;
 }
-article .row .col{
-  padding:0;
+
+article .row .col {
+  padding: 0;
 }
-article header{
+
+article header {
   background: #35393a;
   margin-bottom: 20px;
 }
+
 article header h3,
-article header .icon{
+article header .icon {
   display: inline-block;
   vertical-align: middle;
 }
-article header h3{
-  margin:0;
+
+article header h3 {
+  margin: 0;
   font-size: 25px;
   line-height: 40px;
 }
-article header .icon{
+
+article header .icon {
   background: #00b8de;
   height: 50px;
   width: 50px;
   margin-right: 10px;
   text-align: center;
 }
-article header .icon:before{
+
+article header .icon:before {
   font-size: 30px;
   line-height: 50px;
   height: 50px;
 }
-article span{
-  display:block;
+
+article span {
+  display: block;
 }
-.skills li{
+
+.skills li {
   height: 45px;
   margin-bottom: 6px;
 }
-.tech{
+
+.tech {
   font-style: italic;
   padding-top: 10px;
 }
