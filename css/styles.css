@@ -122,3 +122,9 @@ article span {
   font-style: italic;
   padding-top: 10px;
 }
+
+.code .card-content a span {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
