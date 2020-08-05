@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projects/battle/static/css/main.91c1e2e4.chunk.css",
+    "main.js": "/projects/battle/static/js/main.65f93229.chunk.js",
+    "main.js.map": "/projects/battle/static/js/main.65f93229.chunk.js.map",
+    "runtime-main.js": "/projects/battle/static/js/runtime-main.8ff14749.js",
+    "runtime-main.js.map": "/projects/battle/static/js/runtime-main.8ff14749.js.map",
+    "static/js/2.d5b662ac.chunk.js": "/projects/battle/static/js/2.d5b662ac.chunk.js",
+    "static/js/2.d5b662ac.chunk.js.map": "/projects/battle/static/js/2.d5b662ac.chunk.js.map",
+    "index.html": "/projects/battle/index.html",
+    "precache-manifest.5c3857041f965929ed27130d3a1ddcd8.js": "/projects/battle/precache-manifest.5c3857041f965929ed27130d3a1ddcd8.js",
+    "service-worker.js": "/projects/battle/service-worker.js",
+    "static/css/main.91c1e2e4.chunk.css.map": "/projects/battle/static/css/main.91c1e2e4.chunk.css.map",
+    "static/js/2.d5b662ac.chunk.js.LICENSE.txt": "/projects/battle/static/js/2.d5b662ac.chunk.js.LICENSE.txt",
+    "static/media/monster.png": "/projects/battle/static/media/monster.ca114c67.png",
+    "static/media/player.png": "/projects/battle/static/media/player.38993b84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ff14749.js",
+    "static/js/2.d5b662ac.chunk.js",
+    "static/css/main.91c1e2e4.chunk.css",
+    "static/js/main.65f93229.chunk.js"
+  ]
+}
