@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/projects/products/static/css/main.41071ef8.chunk.css",
+    "main.js": "/projects/products/static/js/main.adca6819.chunk.js",
+    "main.js.map": "/projects/products/static/js/main.adca6819.chunk.js.map",
+    "runtime~main.js": "/projects/products/static/js/runtime~main.39326cdf.js",
+    "runtime~main.js.map": "/projects/products/static/js/runtime~main.39326cdf.js.map",
+    "static/js/2.a3f641bb.chunk.js": "/projects/products/static/js/2.a3f641bb.chunk.js",
+    "static/js/2.a3f641bb.chunk.js.map": "/projects/products/static/js/2.a3f641bb.chunk.js.map",
+    "index.html": "/projects/products/index.html",
+    "precache-manifest.ee99b297cb74609f28472df315062cb7.js": "/projects/products/precache-manifest.ee99b297cb74609f28472df315062cb7.js",
+    "service-worker.js": "/projects/products/service-worker.js",
+    "static/css/main.41071ef8.chunk.css.map": "/projects/products/static/css/main.41071ef8.chunk.css.map",
+    "static/media/index.css": "/projects/products/static/media/OpenSans-Regular.669bf559.woff2"
+  }
+}

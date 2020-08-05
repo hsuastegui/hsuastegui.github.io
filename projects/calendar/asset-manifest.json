@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/projects/calendar/static/js/main.725afb06.chunk.js",
+    "main.js.map": "/projects/calendar/static/js/main.725afb06.chunk.js.map",
+    "runtime-main.js": "/projects/calendar/static/js/runtime-main.31606093.js",
+    "runtime-main.js.map": "/projects/calendar/static/js/runtime-main.31606093.js.map",
+    "static/js/2.5f16f0b6.chunk.js": "/projects/calendar/static/js/2.5f16f0b6.chunk.js",
+    "static/js/2.5f16f0b6.chunk.js.map": "/projects/calendar/static/js/2.5f16f0b6.chunk.js.map",
+    "index.html": "/projects/calendar/index.html",
+    "precache-manifest.e24b1e12234c5fc67ce2692c996ecbc9.js": "/projects/calendar/precache-manifest.e24b1e12234c5fc67ce2692c996ecbc9.js",
+    "service-worker.js": "/projects/calendar/service-worker.js",
+    "static/js/2.5f16f0b6.chunk.js.LICENSE.txt": "/projects/calendar/static/js/2.5f16f0b6.chunk.js.LICENSE.txt",
+    "static/media/next.svg": "/projects/calendar/static/media/next.5ece0c9b.svg",
+    "static/media/previous.svg": "/projects/calendar/static/media/previous.c8181e56.svg",
+    "static/media/up-down.svg": "/projects/calendar/static/media/up-down.6345581e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31606093.js",
+    "static/js/2.5f16f0b6.chunk.js",
+    "static/js/main.725afb06.chunk.js"
+  ]
+}
